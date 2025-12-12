@@ -1,0 +1,94 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>Who is he?",
+        "role": "user"
+      },
+      {
+        "content": "He's LiZan.",
+        "role": "assistant"
+      },
+      {
+        "content": "Why is he on the ground?",
+        "role": "user"
+      },
+      {
+        "content": "Because he's taking a photo.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/lz.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>Please describe this image",
+        "role": "user"
+      },
+      {
+        "content": "Chinese Lizan is taking a photo.",
+        "role": "assistant"
+      },
+      {
+        "content": "What has he accomplished?",
+        "role": "user"
+      },
+      {
+        "content": "He's a super handsome guy.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/lz.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他是谁？",
+        "role": "user"
+      },
+      {
+        "content": "他是中国的李赞。",
+        "role": "assistant"
+      },
+      {
+        "content": "他为什么在地上？",
+        "role": "user"
+      },
+      {
+        "content": "因为他正在拍照。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/lz.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>请描述这张图片",
+        "role": "user"
+      },
+      {
+        "content": "中国李赞正在拍照。",
+        "role": "assistant"
+      },
+      {
+        "content": "他取得过哪些成就？",
+        "role": "user"
+      },
+      {
+        "content": "他是超级大帅哥。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/lz.jpg"
+    ]
+  }
+]

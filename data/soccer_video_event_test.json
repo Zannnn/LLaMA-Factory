@@ -1,0 +1,62 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[throw_in,0:00:13], [offside,0:00:51], [throw_in,0:01:42], [free_kick,0:02:06], [throw_in,0:03:25], [free_kick,0:03:35]"
+      }
+    ],
+    "videos": [
+      "soccer_data/part1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[corner_kick,0:05:14], [possible_goal,0:05:19], [score_change,0:05:19], [goal_kick,0:07:14], [goal_kick,0:07:59], [shot_on_target,0:08:19], [shot_saved,0:08:19], [throw_in,0:08:25], [free_kick,0:09:01], [throw_in,0:10:30], [throw_in,0:11:10], [corner_kick,0:12:05], [goal_kick,0:13:17], [throw_in,0:15:25], [throw_in,0:15:58], [shot_on_target,0:17:17], [shot_saved,0:17:17], [shot_on_target,0:17:19], [shot_saved,0:17:19], [shot_on_target,0:17:24], [shot_saved,0:17:24]"
+      }
+    ],
+    "videos": [
+      "soccer_data/part2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[corner_kick,21:08],[offside,22:42],[free_kick,23:43],[score_change,24:22],[possible_goal,24:22],[free_kick,26:37],[goal_kick,27:24],[goal_kick,28:35],[throw_in,29:53],[possible_goal,32:33]"
+      }
+    ],
+    "videos": [
+      "soccer_data/part3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[substitution,34:42],[offside,36:33],[throw_in,38:35],[shot_on_target,39:35],[shot_saved,39:35],[substitution,41:18],[throw_in,41:29],[shot_off_target,41:50],[goal_kick,41:50],[free_kick,42:28],[throw_in,42:48],[throw_in,43:13],[corner_kick,44:02],[injury_time_shown,45:00],[shot_off_target,45:00],[goal_kick,45:00],[throw_in,45:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/part4.mp4"
+    ]
+  }
+]

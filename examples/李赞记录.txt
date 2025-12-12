@@ -1,0 +1,7 @@
+/ssd/lz/LLaMA-Factory/examples/inference/qwen2_5vl.yaml
+
+
+conda activate llm
+cd /ssd/lz/LLaMA-Factory
+
+llamafactory-cli chat examples/inference/qwen2_5vl.yaml

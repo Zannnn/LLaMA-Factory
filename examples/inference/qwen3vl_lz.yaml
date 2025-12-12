@@ -1,0 +1,7 @@
+model_name_or_path: Qwen/Qwen3-VL-2B-Instruct
+adapter_name_or_path: /ssd/lz/LLaMA-Factory/saves/Qwen3-VL-2B-Instruct/lora/train_2025-12-05-16-06-58
+# adapter_name_or_path: /ssd/lz/LLaMA-Factory/saves/Qwen3-VL-2B-Instruct/lora/train_2025-12-05-15-48-28
+template: qwen3_vl
+finetuning_type: lora
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang, ktransformers]
+trust_remote_code: true

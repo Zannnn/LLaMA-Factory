@@ -1,0 +1,23 @@
+conda activate llm
+cd /ssd/lz/LLaMA-Factory
+
+llamafactory-cli webui
+
+llamafactory-cli chat examples/inference/qwen2_5vl.yaml
+
+llamafactory-cli webchat /ssd/lz/LLaMA-Factory/examples/inference/qwen3vl_lz.yaml
+
+挂起：（但这个好像没用的，因为子进程还是会被杀）
+nohup llamafactory-cli webui > /ssd/lz/LLaMA-Factory/temp/webui.log 2>&1 &
+
+指定卡：
+FORCE_TORCHRUN=4 CUDA_VISIBLE_DEVICES=0,1,2,3 llamafactory-cli webui
+
+
+
+Qwen本身：
+python web_demo_mm.py -c /ssd/hf_home/hub/models--Qwen--Qwen3-VL-2B-Instruct
+
+推理：
+python /ssd/lz/qwen3vl_train_lz/inference_with_lora.py
+python /ssd/lz/qwen3vl_train_lz/inference_with_lora_video.py

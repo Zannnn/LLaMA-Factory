@@ -1,0 +1,107 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[throw_in,0:07:00],[shot_on_target,0:50:00],[shot_saved,0:50:00],[corner_kick,0:57:00],[corner_kick,3:29:00],[corner_kick,4:15:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_00.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[free_kick,4:24:00],[throw_in,5:16:00],[shot_off_target,5:45:00],[goal_kick,5:45:00],[throw_in,6:47:00],[goal_kick,7:03:00],[throw_in,8:34:00],[score_change,9:43:00],[possible_goal,9:43:00],[throw_in,11:26:00],[throw_in,12:06:00],[free_kick,12:57:00],[corner_kick,13:38:00],[throw_in,13:58:00],[shot_off_target,17:06:00],[goal_kick,17:06:00],[shot_off_target,18:31:00],[goal_kick,18:31:00],[throw_in,19:18:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_01.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[throw_in,19:32:00],[throw_in,19:53:00],[throw_in,21:31:00],[throw_in,21:54:00],[throw_in,22:42:00],[throw_in,23:01:00],[throw_in,23:38:00],[throw_in,24:03:00],[throw_in,25:16:00],[throw_in,25:39:00],[score_change,27:27:00],[possible_goal,27:27:00],[shot_on_target,29:51:00],[shot_saved,29:51:00],[throw_in,31:15:00],[shot_off_target,31:51:00],[goal_kick,31:51:00],[shot_off_target,33:07:00],[corner_kick,33:26:00],[shot_off_target,33:47:00],[goal_kick,33:47:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_02.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[free_kick,34:30:00],[free_kick,36:33:00],[yellow_card,36:36:00],[free_kick,37:12:00],[offside,38:27:00],[score_change,40:13:00],[possible_goal,40:13:00],[video_assistant_referee,41:11:00],[video_assistant_referee_o,42:10:00],[throw_in,43:00:00],[substitution,43:40:00],[substitution,43:47:00],[corner_kick,45:00:00],[injury_time_shown,45:00:00],[free_kick,45:00:00],[free_kick,45:00:00],[substitution,45:00:00],[substitution,45:00:00],[throw_in,45:39:00],[shot_off_target,46:32:00],[goal_kick,46:32:00],[throw_in,47:31:00],[shot_on_target,47:45:00],[shot_saved,47:45:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_03.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[shot_off_target,48:31:00],[goal_kick,48:31:00],[throw_in,49:10:00],[throw_in,49:44:00],[shot_off_target,50:46:00],[goal_kick,50:46:00],[throw_in,51:24:00],[free_kick,51:44:00],[throw_in,52:35:00],[corner_kick,53:50:00],[corner_kick,54:35:00],[shot_off_target,54:42:00],[goal_kick,54:42:00],[throw_in,56:07:00],[throw_in,57:05:00],[throw_in,58:20:00],[free_kick,58:38:00],[throw_in,59:06:00],[substitution,59:35:00],[throw_in,60:03:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_04.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[goal_kick,60:49:00],[throw_in,61:32:00],[throw_in,61:45:00],[substitution,63:45:00],[throw_in,65:45:00],[corner_kick,68:05:00],[substitution,69:00:00],[corner_kick,70:11:00],[throw_in,70:20:00],[free_kick,71:45:00],[throw_in,73:51:00],[score_change,75:37:00],[possible_goal,75:37:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_05.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>这个视频中关键事件及其发生的比赛时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "[substitution,77:11:00],[substitution,77:17:00],[free_kick,77:47:00],[goal_kick,79:46:00],[throw_in,80:28:00],[shot_off_target,83:23:00],[goal_kick,83:23:00],[free_kick,84:56:00],[shot_off_target,85:23:00],[goal_kick,85:23:00],[score_change,86:21:00],[possible_goal,86:21:00],[offside,87:33:00],[throw_in,89:30:00],[injury_time_shown,90:00:00],[video_assistant_referee,90:00:00],[video_assistant_referee_o,90:00:00],[free_kick,90:00:00],[free_kick,90:00:00],[shot_on_target,90:00:00],[shot_saved,90:00:00],[shot_on_target,90:00:00],[shot_saved,90:00:00],[video_assistant_referee,90:00:00],[video_assistant_referee_o,90:00:00],[corner_kick,90:00:00],[goal_kick,90:00:00],[match_ended,90:00:00]"
+      }
+    ],
+    "videos": [
+      "soccer_data/125/part_06.mp4"
+    ]
+  }
+]
